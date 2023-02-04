@@ -27,5 +27,13 @@ With my background in corporate finance, I bring a diverse set of skills and att
 
 **This repository includes other work that demonstrates my skills as a data analyst.**
 
+## My learning resources:
+- [ ] Data Analyst in Power BI, Datacamp
+
+- [ ] Mathematics for Machine Learning, Book
+
+- [ ] An Introduction to Statistical Learning
+
+
 
 If you have any questions or would like to discuss potential opportunities, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jackson-li-/). I'm always interested in connecting with other data professionals!
