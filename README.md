@@ -2,7 +2,7 @@
 
 👋 I'm a Coporate Finance Graduate from the University of Adelaide. I am passionate about using data to drive investment decisions and constantly learning statistical models and new technologies related to data analysis and business intelligence. My workflow involves collecting, cleaning, and analysing data using SQL and Python, and data visualisations of findings using matplotlib. I use these tools to uncover patterns and insights, which I then present as a intuitive dashboards with PowerBI. 
 
-## Skills and attributes
+## 🤹 Skills and attributes
 With my background in corporate finance, I bring a diverse set of skills and attributes including:
 - Experience in reporting and telling stories with financial data
 - Solve business problems and uncover actionable insights
@@ -14,7 +14,7 @@ With my background in corporate finance, I bring a diverse set of skills and att
 
 
 
-## Projects
+## 📖 Projects
 
 1. **[Stock Options Dashboard for Australian eChallenge](https://buttersaltpepper-finapp-app-cfhlmv.streamlit.app/)**: My pitch for the 2022 eChallenge was a dashboard to track US stock options greek exposures and cluster stocks for portfolio diversification, providing valuable insights for risk management.
 
@@ -28,4 +28,4 @@ With my background in corporate finance, I bring a diverse set of skills and att
 **This repository includes other work that demonstrates my skills as a data analyst.**
 
 
-If you have any questions or would like to discuss potential opportunities, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jackson-li-/). I'm always interested in connecting with other data professionals!
+If you have any questions feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jackson-li-/). 
