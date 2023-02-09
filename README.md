@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-👋 I'm a Coporate Finance Graduate from the University of Adelaide. I am passionate about using data to drive investment decisions and constantly learning statistical models and new technologies related to data analysis and business intelligence. My workflow involves collecting, cleaning, and analysing data using SQL and Python, and data visualisations of findings using matplotlib. I use these tools to uncover patterns and insights, which I then present as a intuitive dashboards with PowerBI. 
+👋 I'm a Coporate Finance Graduate from the University of Adelaide. I am passionate about using data to drive investment decisions and constantly learning statistical models and new technologies related to data analysis and business intelligence. My workflow involves collecting, cleaning, and analysing data using SQL and Python, and data visualisations of findings using matplotlib. I use these tools to uncover patterns and insights, which I then present as an intuitive dashboards with PowerBI. 
 
 ## 🤹 Skills and attributes
 With my background in corporate finance, I bring a diverse set of skills and attributes including:
