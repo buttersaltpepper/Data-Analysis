@@ -9,21 +9,21 @@
 
 
 
-### 📖 Projects and case studies
-* VSCode / Jupyter Notebook / BigQuery / SQL / Python / Pandas / Numpy / Matplotlib / SciPy / PowerBI
+## 📖 Projects and case studies
+* VSCode / Jupyter Notebook / BigQuery / SQL / Python / Pandas / Numpy / matplotlib / SciPy / PowerBI
 
-<img src=thelook_ecommerce_dashboard\images\dashboard1.png width ='600'>
+<img src="https://github.com/buttersaltpepper/Data-Analysis/blob/main/thelook_ecommerce_dashboard/images/dashboard1.png" width ='600'>
 
-###**[Ecommerce Sales Analysis](thelook_ecommerce_dashboard/project1.ipynb)**
 
-In this project, I used SQL and Python to analyze sales data for an e-commerce business. I created visualizations with matplotlib to uncover patterns and insights and presented them in an intuitive dashboard with Power BI.
+### **[Ecommerce Sales Analytics Dashboard](thelook_ecommerce_dashboard/project1.ipynb)**
+Analysed sales data from BigQuery's public dataset "thelook_ecommerce" using SQL, Python, PowerBI to uncover insights. Build a dashboard for marketing team to identify profit streams to make data-driven decisions to improve their sales and marketing strategies.
+
 
 
 
 <img src="Python_Finance/images/leekinga.png" alt="description of image" width="600"/>
 
-
-**[Stock Options Dashboard for Australian eChallenge](https://buttersaltpepper-finapp-app-cfhlmv.streamlit.app/)**
+### **[Stock Options Dashboard for Australian eChallenge](https://buttersaltpepper-finapp-app-cfhlmv.streamlit.app/)**
 
 : My pitch for the 2022 eChallenge was a dashboard to track US stock options greek exposures and cluster stocks for portfolio diversification, providing valuable insights for risk management.
 
