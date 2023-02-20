@@ -1,20 +1,22 @@
 # 👋 Jackson Li
- As a Corporate Finance Graduate from the University of Adelaide, I have a passion in gathering and analysing data to identify investment opportunities and i'm currently developing Google Cloud skills. 
+ As a Corporate Finance Graduate from the University of Adelaide, I have a passion in gathering and analysing data to identify investment opportunities. I have a background in financial analysis and i'm constantly developing my data analytics skills.
 
-### 🤹 Skills
-* Proficient in SQL and Python for data extraction, cleaning, and analysis
+## 🤹 Skills
+* Proficient in SQL and Python for data extraction, wrangling, cleaning, and analysis
 * Experience with data visualisation and dashboards using Matplotlib and PowerBI
-* Experience in financial portfolio analysis, market risk
+* Experience in financial portfolio risk and analysis
 * Basic understanding of ETL, warehousing, Bigquery, Google Cloud
 
 
 
 ### 📖 Projects and case studies
-* VSCode / Jupyter Notebook / BigQuery / SQL / Python / Pandas / Numpy / Matplotlib / SciPy / Streamlit / PowerBI
+* VSCode / Jupyter Notebook / BigQuery / SQL / Python / Pandas / Numpy / Matplotlib / SciPy / PowerBI
 
 <img src=thelook_ecommerce_dashboard\images\dashboard1.png width ='600'>
-### **[Ecommerce Sales Analysis](project1.ipynb)**
 
+###**[Ecommerce Sales Analysis](thelook_ecommerce_dashboard/project1.ipynb)**
+
+In this project, I used SQL and Python to analyze sales data for an e-commerce business. I created visualizations with matplotlib to uncover patterns and insights and presented them in an intuitive dashboard with Power BI.
 
 
 
