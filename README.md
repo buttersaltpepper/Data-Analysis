@@ -1,7 +1,7 @@
 # 👋 Jackson Li
  As a Corporate Finance Graduate from the University of Adelaide, I have a passion in gathering and analysing data to identify investment opportunities and i'm currently developing Google Cloud skills. 
 
-## 🤹 Skills
+### 🤹 Skills
 * Proficient in SQL and Python for data extraction, cleaning, and analysis
 * Experience with data visualisation and dashboards using Matplotlib and PowerBI
 * Experience in financial portfolio analysis, market risk
@@ -9,19 +9,16 @@
 
 
 
-## 📖 Projects and case studies
-* VSCode / Jupyter Notebook
-* BigQuery / SQL
-* Python / Pandas / Numpy / Matplotlib / SciPy
-* PowerBI / Streamlit 
+### 📖 Projects and case studies
+* VSCode / Jupyter Notebook / BigQuery / SQL / Python / Pandas / Numpy / Matplotlib / SciPy / Streamlit / PowerBI
 
-<img src=thelook_ecommerce_dashboard\images\dashboard1.png width ='800'>
+<img src=thelook_ecommerce_dashboard\images\dashboard1.png width ='600'>
 ### **[Ecommerce Sales Analysis](project1.ipynb)**
 
 
 
 
-<img src="Python_Finance/images/leekinga.png" alt="description of image" width="800"/>
+<img src="Python_Finance/images/leekinga.png" alt="description of image" width="600"/>
 
 
 **[Stock Options Dashboard for Australian eChallenge](https://buttersaltpepper-finapp-app-cfhlmv.streamlit.app/)**
@@ -30,7 +27,7 @@
 
 **[Housing Price Exploratory Data Analysis](Python_HousingPriceEDA/EDA_Housing_Price.ipynb)**: Used Python for univariate and bivariate statistics to study the relationship between the features and housing prices. Used stepwise backward selection to determine which variables were the most influential to guide further analysis.
 
-<img src=Python_Finance\images\efficient_frontier.png alt="description of image" width="800"/>
+<img src=Python_Finance\images\efficient_frontier.png alt="description of image" width="600"/>
 
 **[Hedging a Gold Stock Portfolio with Futures (pdf)](Python_Finance/HedgingMarketRisk.pdf)**: Python was used to conduct investment data analysis and calculate the beta hedge ratio using statsmodels, and visualise findings using matplotlib
 
